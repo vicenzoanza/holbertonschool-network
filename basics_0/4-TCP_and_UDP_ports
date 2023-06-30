@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-
-netstat -ltupn
+#Netstat generates visualizations showing network status and protocol statistics.
+netstat -0
